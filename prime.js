@@ -9,7 +9,7 @@ function Prime(element){
             c++;
         } 
     }
-            if(c=2)
+            if(c==2)
             {
                return true;
             }
